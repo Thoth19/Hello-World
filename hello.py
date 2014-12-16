@@ -1,7 +1,7 @@
 def hello():
     '''
-    This function prints "hello world" to the command line
+    This function prints "Hello world." to the command line
     '''
-    print "hello world"
+    print "Hello world."
 hello()
 
